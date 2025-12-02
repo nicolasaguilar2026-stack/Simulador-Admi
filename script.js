@@ -26,7 +26,7 @@ const db = getFirestore(app);     // <--- Esto faltaba para la base de datos
 const correosDosDispositivos = [
     "dpachecog2@unemi.edu.ec", "htigrer@unemi.edu.ec", "sgavilanezp2@unemi.edu.ec", 
     "jzamoram9@unemi.edu.ec", "fcarrillop@unemi.edu.ec", "naguilarb@unemi.edu.ec", 
-    "kholguinb2@unemi.edu.ec"
+    "iastudillol@unemi.edu.ec"
 ];
 
 // Correos que tendrán límite de 1 dispositivo
